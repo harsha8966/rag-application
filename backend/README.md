@@ -1,4 +1,4 @@
-# Enterprise RAG Backend
+#  RAG Backend
 
 FastAPI backend for the Enterprise RAG Assistant.
 
