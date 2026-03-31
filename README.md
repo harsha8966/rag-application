@@ -1,4 +1,4 @@
-# Enterprise RAG-Powered AI Assistant
+# RAG-Powered AI Assistant
 
 A production-grade Retrieval Augmented Generation (RAG) system that answers questions **ONLY** from uploaded internal documents while minimizing hallucinations.
 
