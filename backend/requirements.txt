@@ -1,0 +1,44 @@
+# Enterprise RAG Assistant - Backend Dependencies
+# Production-grade dependencies with pinned versions for stability
+
+# Web Framework
+fastapi==0.109.2
+uvicorn[standard]==0.27.1
+python-multipart==0.0.9
+
+# LangChain ecosystem for RAG
+langchain==0.1.9
+langchain-google-genai==0.0.11
+langchain-community==0.0.24
+
+# Google Generative AI (Gemini)
+google-generativeai==0.4.1
+
+# Vector Store
+faiss-cpu==1.13.2
+
+# Document Processing
+pypdf==4.0.2
+pdfplumber==0.11.4
+python-docx==1.1.0
+
+# Data Validation
+pydantic==2.6.1
+pydantic-settings==2.2.1
+
+# Async Support
+aiofiles==23.2.1
+
+# Environment Management
+python-dotenv==1.0.1
+
+# Logging
+structlog==24.1.0
+
+# Testing
+pytest==8.0.1
+pytest-asyncio==0.23.5
+httpx==0.26.0
+
+# Type hints
+typing-extensions==4.9.0

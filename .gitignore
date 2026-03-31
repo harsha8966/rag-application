@@ -1,0 +1,67 @@
+# ========================
+# Python
+# ========================
+__pycache__/
+*.py[cod]
+*.pyo
+*.egg-info/
+*.egg
+dist/
+build/
+*.whl
+
+# Virtual environment
+backend/venv/
+venv/
+.venv/
+
+# ========================
+# Node.js
+# ========================
+frontend/node_modules/
+node_modules/
+
+# ========================
+# Environment / Secrets
+# ========================
+.env
+.env.local
+.env.*.local
+backend/.env
+frontend/.env.local
+
+# ========================
+# Runtime / Data
+# ========================
+backend/data/
+*.faiss
+*.pkl
+
+# ========================
+# IDE / Editor
+# ========================
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+Thumbs.db
+
+# ========================
+# Build output
+# ========================
+frontend/dist/
+
+# ========================
+# Logs
+# ========================
+*.log
+npm-debug.log*
+pip-log.txt
+
+# ========================
+# OS files
+# ========================
+.DS_Store
+Desktop.ini
