@@ -10,6 +10,7 @@ python-multipart==0.0.9
 langchain==0.1.9
 langchain-google-genai==0.0.11
 langchain-community==0.0.24
+langchain-text-splitters==0.0.1
 
 # Google Generative AI (Gemini)
 google-generativeai==0.4.1
