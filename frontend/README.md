@@ -1,6 +1,6 @@
-# Enterprise RAG Frontend
+#  RAG Frontend
 
-React frontend for the Enterprise RAG Assistant.
+React frontend for the  RAG Assistant.
 
 ## Setup
 
